@@ -38,6 +38,6 @@ public class MainActivity extends Activity {
 }
 //コメントこんにちは
 
-//コメント②
+//コメント2
 
-//コメント③
+//コメント3
